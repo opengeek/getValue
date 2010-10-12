@@ -1,0 +1,5 @@
+Changelog for getValue.
+
+getValue 1.0.0-beta (October 12, 2010)
+====================================
+- Initial release.
